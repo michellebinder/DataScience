@@ -1,4 +1,3 @@
-# DataScience
+# Beschreibung
 
-Thir is the repository for the university project of the course Introduction to Data Science and Machine Learning. 
-It contains the code for a data analysis we conducted.
+Dieses Repository enthält den Code für das Projekt, was im Rahmen des Kurses "Einführung in Data Science und Machine Learning" durchgeführt wurde. 
